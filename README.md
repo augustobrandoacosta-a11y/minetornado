@@ -5,4 +5,9 @@ which you simulate the tornado and also make the size of the Tornadoes like so 1
 # why minetornado??????
 minetornado is a game wheere you simulate tornadoes.
 #  how does it work?
-LOOK AT SUBTITLE 1.
+### Build
+use minecraft blocks to construct your town.
+### Configure
+Set your desired tornado size (1-2100 yards) and intensity ( EF0 1 MPH-EF5 300 MPH)
+### Simulate!
+Trigger the event to see, your tornado, youur town, your destined destrucion.
