@@ -11,3 +11,5 @@ use minecraft blocks to construct your town.
 Set your desired tornado size (1-2100 yards) and intensity ( EF0 1 MPH-EF5 300 MPH)
 ### Simulate!
 Trigger the event to see, your tornado, youur town, your destined destrucion.
+
+![Tornado Simulation](effinadcraft.png)
