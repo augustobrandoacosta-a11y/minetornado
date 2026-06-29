@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Minetornado Simulator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Minetornado Simulator</h1>
+        
+        <div class="input-group">
+            <label for="size">Tornado Size (yards):</label>
+            <input type="number" id="size" min="1" max="2100" value="100">
+        </div>
+
+        <div class="input-group">
+            <label for="intensity">Wind Speed (mph):</label>
+            <input type="number" id="intensity" min="1" max="300" value="50">
+        </div>
+
+        <button onclick="startSimulation()">Start Simulation</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
